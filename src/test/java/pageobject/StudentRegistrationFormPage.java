@@ -78,3 +78,4 @@ public class StudentRegistrationFormPage {
                 text(address), text("NCR Delhi"), text("rabbit.jpeg"));
     }
 }
+
